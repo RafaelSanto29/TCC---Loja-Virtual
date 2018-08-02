@@ -1,0 +1,26 @@
+{
+  "name": "tcc-loja-virtual",
+  "version": "1.0.0",
+  "description": "projeto tcc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelSanto29/TCC-Loja-Virtual.git"
+  },
+  "keywords": [
+    "\"tcc\"",
+    "\"loja\""
+  ],
+  "author": "Rafael Santo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RafaelSanto29/TCC-Loja-Virtual/issues"
+  },
+  "homepage": "https://github.com/RafaelSanto29/TCC-Loja-Virtual#readme",
+  "dependencies": {
+    "firebase": "^5.3.0"
+  }
+}
